@@ -1,0 +1,13 @@
+langchain-groq
+langchain-core
+streamlit
+pandas
+numpy
+matplotlib
+re
+textwrap
+langchain-community
+langchain
+groq
+os
+io
